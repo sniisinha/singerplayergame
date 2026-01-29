@@ -9,11 +9,7 @@ This project implements a modular, object-oriented Java framework for turn-based
 The design is built for **scalability** and **extensibility**, allowing additional games to be added easily with minimal code duplication.
 
 ---
-## Student Information
-- Snigdha Sinha (U90287897)
-- Ying Huang (U13787608)
 
----
 ## File Information
 
 ### General
